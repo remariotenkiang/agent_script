@@ -7,6 +7,8 @@ else
 echo "welcome"
 fi
 iostat
+top
+
 sar -u
 nproc
 cat /etc/os-release
