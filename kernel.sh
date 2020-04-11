@@ -6,3 +6,4 @@ exit 1
 else
 echo "welcome"
 fi
+iostat
