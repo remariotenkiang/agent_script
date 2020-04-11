@@ -7,3 +7,5 @@ else
 echo "welcome"
 fi
 iostat
+top
+
